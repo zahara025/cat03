@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900121287062",
+    "project_id": "shufaa-98465",
+    "storage_bucket": "shufaa-98465.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900121287062:android:ef1a360937d877088b25b7",
+        "android_client_info": {
+          "package_name": "com.example.shufaa_cat03"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_dYtRaDAlBR4ws5hUpOXQjDOHFhCOX8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
